@@ -1,1 +1,1 @@
-# capp_2024_NHH_AWS1
+# capp_2024_NHH_AWS
